@@ -6,6 +6,7 @@ Hi, I'm Janneke Verbeek, I am a PhD candidate at Radboud University's department
 My research interests include changepoint detection, Gaussian processes and their applications and statistical machine learning.
 
 In my free time I enjoy:
+
 * Goju Ryu karate (2nd dan, IOGKF)
 * Bouldering
 * Origami
