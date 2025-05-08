@@ -4,4 +4,4 @@ Category: Test
 URL: posts
 save_as: posts/index.html
 
-Some thoughts go here.
+When I have a thought I might put it here.
