@@ -32,7 +32,12 @@ SOCIAL = (
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 # Add a theme
 THEME = 'themes/Pelican-Cid' 
+USE_CUSTOM_MENU = True
+CUSTOM_MENUITEMS = (('About', 'about'),('Publications', 'publications'), ('Posts', 'posts'))
+
+
+
