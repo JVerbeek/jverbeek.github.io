@@ -1,15 +1,11 @@
 Title: About
 Date: 2025-05-08
 Tags: basic info
+save_as: index.html
 
-Hi, I'm Janneke Verbeek, I am a PhD candidate at Radboud University's department of Data Science. 
+Hi, I'm Janneke Verbeek (she/her), I am a PhD candidate at Radboud University's department of Data Science supervised by Yuliya Shapovalova and Tom Heskes.
 My research interests include changepoint detection, Gaussian processes and their applications and statistical machine learning.
 
-In my free time I enjoy:
+I spend my free time on Goju Ryu karate (2nd dan, IOGKF), bouldering, origami and reading (non-fiction, or sci-fi/fantasy). I also enjoy hands-on projects of all kinds (from cookery to tech). 
 
-* Goju Ryu karate (2nd dan, IOGKF)
-* Bouldering
-* Origami
-* Reading (non-fiction, or sci-fi/fantasy).
-
-You can reach me at janneke.verbeek at ru.nl -- you're free to mail me about any of the above.
+You can reach me at janneke.verbeek at ru.nl.  
