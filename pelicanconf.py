@@ -37,7 +37,6 @@ RELATIVE_URLS = True
 # Add a theme
 THEME = 'themes/Pelican-Cid' 
 USE_CUSTOM_MENU = True
-CUSTOM_MENUITEMS = (('About', 'about'),('Publications', 'publications'), ('Posts', 'posts'))
+CUSTOM_MENUITEMS = (('About', 'about'),('Publications', 'publications'),('Posts', 'posts'))
 
-
-
+PLUGINS=["render_math"]

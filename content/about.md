@@ -1,7 +1,5 @@
 Title: About
 Date: 2025-05-08
-Tags: basic info
-save_as: index.html
 
 Hi, I'm Janneke Verbeek (she/her), I am a PhD candidate at Radboud University's department of Data Science supervised by Yuliya Shapovalova and Tom Heskes.
 My research interests include changepoint detection, Gaussian processes and their applications, uncertainty quantification and statistical machine learning.
