@@ -1,0 +1,17 @@
+body {
+    font-family: "Courier New", monospace;
+}
+
+h1, h2, h3, p {
+    font-family: "Courier New", monospace;
+}
+
+index{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+article {
+    padding-left: 80px;
+    padding-right: 80px;
+}

@@ -1,12 +1,13 @@
-AUTHOR = 'Janneke Verbeek'
-SITENAME = "Janneke's Webpage"
+AUTHOR = "Janneke Verbeek"
+SITENAME = "janneke's page"
 SITEURL = ""
+
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Amsterdam'
+TIMEZONE = "Europe/Rome"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -14,7 +15,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-
+THEME = "themes/my-theme"
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
@@ -32,11 +33,4 @@ SOCIAL = (
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
-
-# Add a theme
-THEME = 'themes/Pelican-Cid' 
-USE_CUSTOM_MENU = True
-CUSTOM_MENUITEMS = (('About', 'about'),('Publications', 'publications'),('Posts', 'posts'))
-
-PLUGINS=["render_math"]
+# RELATIVE_URLS = True

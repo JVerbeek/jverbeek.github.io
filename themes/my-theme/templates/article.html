@@ -1,0 +1,10 @@
+
+<link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css">
+{% extends "base.html" %}
+
+{% block content %}
+<article>
+    <h1>{{ article.title }}</h1>
+    {{ article.content }}
+</article>
+{% endblock %}
