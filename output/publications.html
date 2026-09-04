@@ -19,13 +19,13 @@
       <main>
 <article>
     <h1>Changepoint detection with Gaussian processes</h1>
-    <h3>Changepoint detection with Gaussian processes</h3>
-<p>In this paper, we applied Gaussian process regression to the problem of changepoint detection. The changepoint kernel, in combination with the spectral mixture kernel, turns out to be a really effective way to detect changepoints. 
+    <p>In the paper <em>Offline changepoint detection with Gaussian processes</em> (2025, published at UAI), we applied Gaussian process regression to the problem of changepoint detection. The changepoint kernel, in combination with the spectral mixture kernel, turns out to be a really effective way to detect changepoints. 
 The changepoint kernel (Lloyd, 2014) combines two base kernels, <span class="math">\(k_1\)</span> and <span class="math">\(k_2\)</span>, with a sigmoid; the sigmoid is parametrized by a steepness <span class="math">\(s\)</span> and a location <span class="math">\(x_0\)</span>, <span class="math">\(\psi(x) = \frac{1}{(1-\exp(-s(x-x_0)}\)</span>, to smoothly transition between the functional forms described by the two base kernels. The full kernel is given by 
     </p>
 <div class="math">$$k(x, x') = k_1(x, x')\cdot \bar\sigma + k_2(x, x') \cdot \sigma,$$</div>
 <p>
 where <span class="math">\(\psi(x, x') = \psi(x)\psi(x')\)</span>, <span class="math">\(\bar \psi(x, x') = (1 - \psi(x)) (1 - \psi(x'))\)</span>. </p>
+<p>I intend to extend this post further with beautiful visualizations, but this was mostly a test to see how well the LaTeX renders and how a block of text looks. </p>
 <script type="text/javascript">if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",

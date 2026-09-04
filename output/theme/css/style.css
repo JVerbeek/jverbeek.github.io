@@ -6,12 +6,23 @@ h1, h2, h3, p {
     font-family: "Courier New", monospace;
 }
 
-index{
+main{
     padding-left: 80px;
     padding-right: 80px;
 }
 
-article {
+head{
     padding-left: 80px;
     padding-right: 80px;
 }
+
+header{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+footer{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
