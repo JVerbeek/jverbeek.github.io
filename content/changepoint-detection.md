@@ -14,4 +14,3 @@ where $\psi(x, x') = \psi(x)\psi(x')$, $\bar \psi(x, x') = (1 - \psi(x)) (1 - \p
 I intend to extend this post further with beautiful visualizations, but this was mostly a test to see how well the LaTeX renders and how a block of text looks. 
 
 
-
